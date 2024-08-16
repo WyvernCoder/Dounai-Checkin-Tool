@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>store_check.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="btn_invite.png" />
+    <None Remove="invited.png" />
+    <None Remove="store_backpack_bg_highlight.png" />
+    <None Remove="store_check.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="store_check.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="btn_invite.png" />
+    <Resource Include="invited.png" />
+    <Resource Include="store_backpack_bg_highlight.png" />
+    <Resource Include="store_check.png" />
+  </ItemGroup>
+
+</Project>
