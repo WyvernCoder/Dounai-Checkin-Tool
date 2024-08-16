@@ -1,4 +1,4 @@
-# ![store_check (Custom)](https://github.com/user-attachments/assets/e34ec6ea-de4b-450e-873f-981c317dff82) 小豆丁 Dounai Checkin Tool  
+# ![store_check (Custom)](https://github.com/user-attachments/assets/e34ec6ea-de4b-450e-873f-981c317dff82) Dounai Checkin Tool 小豆丁  
 For check in a particular [website](dounai.pro).  
 Poor coding, because I am not familar with WPF application, but the functions are perfect.  
   
