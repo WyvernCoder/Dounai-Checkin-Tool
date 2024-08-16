@@ -1,3 +1,6 @@
+![6191ff5762695b1cf9dd9d561b3f14c](https://github.com/user-attachments/assets/492fee98-8d7a-4242-8467-f2a05c100794)  
+
+  
 # ![store_check (Custom)](https://github.com/user-attachments/assets/e34ec6ea-de4b-450e-873f-981c317dff82) Dounai Checkin Tool 小豆丁  
 For check in a particular [website](dounai.pro).  
 Poor coding, because I am not familar with WPF application, but the functions are perfect.  
@@ -7,3 +10,4 @@ Download the release version of it, and edit the "config.cfg".
 Modify the file with your personal dounai.pro account, and run the program.  
 
 # ![invited (Custom)](https://github.com/user-attachments/assets/049e62f1-8acd-4d58-9082-95a8701fe39b) THANK YOU FOR USING  
+
